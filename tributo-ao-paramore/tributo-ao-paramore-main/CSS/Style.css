@@ -1,0 +1,52 @@
+html {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  color: aliceblue;
+  margin: 20px 40px;
+}
+
+.logo-bio {margin-left: 35%;
+width: 30%;}
+
+.container {
+font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+    color: aliceblue;
+  text-align: center;
+}
+
+.feature-image { text-align: center; font-style: italic;font-size: x-small;}
+
+.title-bio {font-style: oblique; color: red;text}
+
+.biography-container {
+  font-style: italic;
+  color: aliceblue;
+}
+
+.quotes-container 
+{
+  font-style: italic;
+  font-size: medium;
+  color: aliceblue;
+  border-style: dotted;
+border-color:red;
+ width: 50%;
+ margin: auto;
+}
+
+.cap {font-size: smaller;
+font-style: italic;
+text-align: end;
+}
+
+.list {color: red;}
+
+.img-bold
+  { text-align: center; font-style: italic;font-size: x-small;}
+
+.moreinfo-container {
+color:red;
+}
+.text-info {color: aliceblue;}
+.site{color: red;}
